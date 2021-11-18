@@ -178,15 +178,13 @@ a{
 }
 
 a:hover{
-    color:#252323;
+    color: #252323;
 }
 
 p{
     line-height: 26px;
     padding-bottom: 4px;
 }
-
-
 
 h1{
     font-size: 30px;
