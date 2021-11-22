@@ -50,18 +50,6 @@ nav{
     border-bottom: 2px solid #a5c1f2;
 }
 
-@media screen and (max-width: 1024px){
-    .nav-links{
-        width: 60%;
-    }
-}
-
-@media screen and (max-width: 728px){
-    .nav-links{
-        width: 70%;
-    }
-}
-
 .text{
     height: 100%;
     width: 80%;
@@ -122,6 +110,18 @@ input[type=text], input[type=password] {
 img.avatar {
     width: 100px;
     border-radius: 50%;
+}
+
+@media screen and (max-width: 1024px){
+    .nav-links{
+        width: 60%;
+    }
+}
+
+@media screen and (max-width: 728px){
+    .nav-links{
+        width: 70%;
+    }
 }
   
 @media screen and (max-width: 300px) {
