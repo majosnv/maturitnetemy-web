@@ -49,7 +49,6 @@ if(!isset($_SESSION['username'])){
 
     <button onclick="topFunction()" id="myBtn" title="Hore" class="fas fa-arrow-up"></button>
     <script>
-        
         mybutton = document.getElementById("myBtn");
 
         
@@ -63,7 +62,6 @@ if(!isset($_SESSION['username'])){
             }
         }
 
-        
         function topFunction() {
             document.body.scrollTop = 0; 
             document.documentElement.scrollTop = 0; 
