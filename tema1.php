@@ -76,7 +76,7 @@ if(!isset($_SESSION['username'])){
 
             <div class="card">
               <h1>Napíš mi ak chceš témy</h1>
-              <p>Témy sú pre predmet Cvičenia z informatiky odbor Elektrotechnika</p>
+              <p>Témy sú na maturitu z Informatiky odbor Elektrotechnika</p>
             </div>
     </div>
 
