@@ -39,14 +39,13 @@ include 'connection.php';
             <div class="imgcontainer">
               <img src="images/user.png" alt="Avatar" class="avatar">
             </div>
-          
             <div class="container">
               <label for="user"><strong>Meno</strong></label>
               <input type="text" placeholder="Zadaj meno" name="user" required>
           
               <label for="password"><strong>Heslo</strong></label>
               <input type="password" placeholder="Zadaj heslo" name="password" required>
-                  
+              
               <button class="btn btn1">Prihlásiť sa</button>
               <label>
                 <input type="checkbox" checked="checked" name="remember"> Zapamätať si
