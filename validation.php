@@ -16,7 +16,7 @@ if (mysqli_num_rows($result) > 0) {
   $_SESSION['username'] = $name;
   header('location:okruhy.php');
 
-} else {
+} else{
   //echo "0 results";
   header('location:login.php');
 }
