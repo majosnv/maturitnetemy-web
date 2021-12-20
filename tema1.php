@@ -79,8 +79,6 @@ if(!isset($_SESSION['username'])){
               <p>Témy sú na maturitu z Informatiky odbor Elektrotechnika</p>
             </div>
     </div>
-
-
 </body>
 
 <footer class="footer">
