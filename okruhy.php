@@ -4,7 +4,6 @@ session_start();
 if(!isset($_SESSION['username'])){
     header('location:login.php');
 }
-
 ?>
 
 <!DOCTYPE html>
@@ -18,7 +17,7 @@ if(!isset($_SESSION['username'])){
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.4.1/css/all.css">
     <link rel="icon" href="favicon.png" sizes="16x16" type="images/png">
     <link rel="stylesheet" href="style.css">
-    <title>Okruhy </title>
+    <title>Okruhy tém</title>
 </head>
 
 <style>
