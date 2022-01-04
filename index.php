@@ -33,7 +33,7 @@
     <div class="text" style="padding-top: 8%;">
         <h2>Cvičenia z informatiky</h2><br>
         <p>VÝCHOVNO – VZDELÁVACÍ CIEĽ</p><br>
-        <p> <li style="list-style: none;">
+        <p><li style="list-style: none;">
         <i class="fas fa-angle-right"></i> Rozšíriť a doplniť vedomosti, zručnosti a teoretické poznatky v nadväznosti na obsah povinného predmetu informatika
             </li>
             <li style="list-style: none;">
@@ -56,6 +56,6 @@
 </body>
 
 <footer class="footer">
-   <p>Mário Panenko 2021</p>
+   <p>Mário Panenko &copy 2021</p>
 </footer>
 </html>
