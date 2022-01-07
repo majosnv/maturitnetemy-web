@@ -112,28 +112,6 @@ img.avatar {
     border-radius: 50%;
 }
 
-@media screen and (max-width: 1024px){
-    .nav-links{
-        width: 60%;
-    }
-}
-
-@media screen and (max-width: 728px){
-    .nav-links{
-        width: 70%;
-    }
-}
-  
-@media screen and (max-width: 300px){
-    span.psw {
-       display: block;
-       float: none;
-    }
-    .btn {
-       width: 100%;
-    }
-}
-
 .container{
     max-width: 300px;
     display: block;
@@ -211,7 +189,7 @@ h1{
     background-color: #94a0b3;
 }
 
-pre {
+pre{
     background: #f4f4f4;
     border: 1px solid #ddd;
     border-left: 3px solid #252b34;
@@ -237,4 +215,26 @@ code{
 
 h2, h3, img{
     padding: 10px 0;
+}
+
+@media screen and (max-width: 1024px){
+    .nav-links{
+        width: 60%;
+    }
+}
+
+@media screen and (max-width: 728px){
+    .nav-links{
+        width: 70%;
+    }
+}
+  
+@media screen and (max-width: 300px){
+    span.psw {
+       display: block;
+       float: none;
+    }
+    .btn {
+       width: 100%;
+    }
 }
