@@ -48,6 +48,8 @@ if(!isset($_SESSION['username'])){
     </nav>
 
     <button onclick="topFunction()" id="myBtn" title="Hore" class="fas fa-arrow-up"></button>
+    
+    <!--Scroll up button-->
     <script>
         mybutton = document.getElementById("myBtn");
         window.onscroll = function() {scrollFunction()};
