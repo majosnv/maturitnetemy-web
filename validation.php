@@ -3,9 +3,9 @@ session_start();
 require('connection.php');
 
 if(isset($_POST['user'], $_POST['password'])){
-$name = $_POST['user'];
-$pass = $_POST['password'];
-echo "prebral som";
+  $name = $_POST['user'];
+  $pass = $_POST['password'];
+  echo "prebral som";
 }
 
 else echo 'nedefinované';
@@ -18,7 +18,7 @@ if (mysqli_num_rows($result) > 0) {
   header('location:okruhy.php');
 
 } else{
-  //echo "0 results";
+  //echo "0 result";
   header('location:login.php');
 }
 ?>
