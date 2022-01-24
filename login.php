@@ -39,7 +39,7 @@ include 'connection.php';
               <img src="images/user.png" alt="Avatar" class="avatar">
             </div>
             <div class="container">
-              <label for="user"><strong>Meno uživatela</strong></label>
+              <label for="user"><strong>Meno uživateľa</strong></label>
               <input type="text" placeholder="Zadaj meno" name="user" required>
           
               <label for="password"><strong>Heslo</strong></label>
