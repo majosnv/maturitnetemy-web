@@ -18,7 +18,7 @@ if (mysqli_num_rows($result) > 0) {
   header('location:okruhy.php');
 
 } else{
-  //echo "0 result";
+  //echo "0 results";
   header('location:login.php');
 }
 ?>
