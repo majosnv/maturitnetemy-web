@@ -56,6 +56,6 @@
 </body>
 
 <footer class="footer">
-   <p>Mário Panenko &copy 2021</p>
+   <p>Mário Panenko &copy</p>
 </footer>
 </html>
