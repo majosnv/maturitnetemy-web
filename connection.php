@@ -1,6 +1,6 @@
 <?php
     $con = mysqli_connect('localhost','root','','databaza_temy', 3306); //Localhost
-    //$con = mysqli_connect('Host','mariopanenko6fsk','Pass','Databaza', 3309); //Endora
+    //$con = mysqli_connect('Host','mariopanenko6fsk','Pass','Databaza', 3309); //End
 
     if(!$con)
     {
