@@ -8,7 +8,7 @@
 nav{
     display: flex;
     justify-content: space-around;
-    align-items: center;
+    align-items: center; //Vycentruje text
     min-height: 8vh;
     background-color: #252b34;
 }
