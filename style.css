@@ -74,7 +74,7 @@ footer{
     font-weight: bold;
   }
 
-.btn{
+.btn{ /*Button*/
     border: 1px solid #252b34;
     background: #252b34;
     padding: 10px 20px;
