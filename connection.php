@@ -4,6 +4,6 @@
 
     if(!$con)
     {
-        die(' Nemáš pripojenú databázu '.mysqli_error($con)); //Error
+        die(' Nemáš pripojenú databázu '.mysqli_error($con));
     }
 ?>
