@@ -52,7 +52,7 @@ nav{
 
 .text{
     height: 100%; /* Výška */
-    width: 80%;
+    width: 80%; /* Šírka */
     margin: auto;
     padding-top: 2%;
     font-size: 18px;
