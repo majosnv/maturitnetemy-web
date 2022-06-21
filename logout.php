@@ -3,6 +3,6 @@
 session_start();
 session_destroy();
 
-header('location:login.php'); //Presmerovanie na login
+header('location:login.php');
 
 ?>
