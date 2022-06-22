@@ -5,7 +5,7 @@ require('connection.php');
 if(isset($_POST['user'], $_POST['password'])){
   $name = $_POST['user'];
   $pass = $_POST['password'];
-  echo "prebral som to"; //Ma vstup
+  echo "prebral som to";
 }
 
 else echo 'nedefinované';
