@@ -136,7 +136,7 @@ if(!isset($_SESSION['username'])){
 </body>
 
 <footer class="footer">
-    <p>Mário Panenko 2021</p>
+    <p>Mário Panenko 2021 &copy</p>
 </footer>
 
 </html>
